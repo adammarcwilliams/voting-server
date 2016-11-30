@@ -1,7 +1,11 @@
 {
   "name": "voting-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "voting-server",
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/adammarcwilliams/voting-server.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "babel-node index.js",
